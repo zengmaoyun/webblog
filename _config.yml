@@ -1,2 +1,2 @@
-theme: jekyll-theme-cayman
-baseurl:/zengmy.github.io
+theme: "jekyll-theme-cayman"
+baseurl: "/zengmy.github.io"
