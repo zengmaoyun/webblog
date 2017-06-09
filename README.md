@@ -1,3 +1,3 @@
 # zengmaoyun.github.io
-学习记录<br>
-## 博客地址：https://zengmaoyun.github.io/
+个人博客<br>
+## 地址：https://zengmaoyun.github.io/blog/
